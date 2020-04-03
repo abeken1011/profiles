@@ -1,2 +1,2 @@
-# bashrc
-ローカルなどで環境構築短縮のためbashrcに入れたいショートカットコマンドを記述
+# profiles
+環境構築短縮のためbashrcやPowerShellに入れたいショートカットコマンドを記述
